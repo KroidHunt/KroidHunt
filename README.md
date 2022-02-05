@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KroidHunt
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Golang and Node JS
+- 💞️ I’m looking to collaborate on web apps
